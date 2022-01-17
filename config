@@ -1,0 +1,14 @@
+name                  : Total.js with Mongoose 5
+author                : Reynaldo
+version               : 1.0.0
+
+// Mail settings
+mail_smtp             : smtp.yourwebsite.com
+mail_smtp_options     : {"secure":false,"port":25,"user":"","password":"","timeout":10000}
+mail_address_from     : your@yourwebsite.com
+mail_address_reply    : your@yourwebsite.com
+mail_address_copy     :
+
+// MongoDB settings
+mongodb_url           : mongodb://root:123@localhost:27017/test?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false
+mongodb_debug_event   : true

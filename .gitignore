@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+tmp/
+
+debug.js.json
+debug.pid
+package-lock.json

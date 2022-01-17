@@ -1,0 +1,23 @@
+{
+  "name": "totaljs-mongoose",
+  "version": "1.0.0",
+  "description": "API with totaljs and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roninJosue/totaljs-mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roninJosue/totaljs-mongoose/issues"
+  },
+  "homepage": "https://github.com/roninJosue/totaljs-mongoose#readme",
+  "dependencies": {
+    "mongoose": "^6.1.7",
+    "total4": "0.0.56"
+  }
+}
